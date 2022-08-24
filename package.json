@@ -1,0 +1,32 @@
+{
+  "name": "irislaunchpage",
+  "version": "1.0.0",
+  "description": "Launch page for Iris",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Michaelr499/irisLaunchPage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Michaelr499/irisLaunchPage/issues"
+  },
+  "homepage": "https://github.com/Michaelr499/irisLaunchPage#readme",
+  "devDependencies": {
+    "next": "^12.2.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router": "^6.3.0",
+    "react-router-dom": "^6.3.0",
+    "react-scripts": "^5.0.1"
+  },
+  "dependencies": {
+    "sass": "^1.54.5",
+    "sass-loader": "^13.0.2"
+  }
+}
